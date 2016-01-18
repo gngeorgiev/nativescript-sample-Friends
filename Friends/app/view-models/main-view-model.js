@@ -22,7 +22,7 @@ var MainViewModel = (function (_super){
         
         // Initialize Everlive SDK
         var everliveOptions = {
-                                  apiKey: BS_API_KEY,
+                                  appId: TELERIK_APP_ID,
                                   scheme: BS_SCHEME,
                                   token: AppSettings.getString(TOKEN_DATA_KEY)
                               };

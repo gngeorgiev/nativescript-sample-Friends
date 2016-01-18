@@ -62,7 +62,7 @@ The Friends sample app comes fully functional, but to see it in action you must 
 This is a unique string that links the sample mobile app to your Telerik Platform account where all the data is read from/saved. To set it in the app code:
 
 1. Open the `Friends/app/app.js` file.
-2. Replace `$EVERLIVE_API_KEY$` with the App ID of your Telerik Platform app.
+2. Replace `$$TELERIK_APP_ID$` with the App ID of your Telerik Platform app.
 
 ## (Optional) Project Key for Telerik Analytics
 
